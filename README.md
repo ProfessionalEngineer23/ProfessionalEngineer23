@@ -2,13 +2,20 @@
 
 **Interests:** Embedded Systems • IoT • AI • YouTube
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalEngineer23&layout=compact&theme=swift)
+---
+
+## 💫 About Me
+- 🔭 Currently working on **Embedded Systems**
+- 👯 Open to collaborating on projects where I can learn and contribute
+- 🤝 Always improving — feedback and suggestions welcome
+- 🌱 Currently learning **ESP-IDF**
+- 💬 Ask me about anything — I’ll do my best to help
+- ⚡ Fun fact: We're alive!
 
 ---
 
 <details>
   <summary><b>CPU</b></summary>
-  <pre>
   ⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠀⠀⢀⣀⣀⡀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀
   ⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⠀⠀⠸⣿⣿⠇⠀⠀⣿⣿⠇⠀⠀⠀⠀⠀⠀⠀
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -24,7 +31,6 @@
   ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
   ⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⠀⠀⢰⣿⣿⡆⠀⠀⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀
   ⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠈⠉⠉⠁⠀⠀⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀
-  </pre>
 </details>
 
 ---
@@ -41,13 +47,7 @@
 
 ---
 
-## 💫 About Me
-- 🔭 Currently working on **Embedded Systems**
-- 👯 Open to collaborating on projects where I can learn and contribute
-- 🤝 Always improving — feedback and suggestions welcome
-- 🌱 Currently learning **ESP-IDF**
-- 💬 Ask me about anything — I’ll do my best to help
-- ⚡ Fun fact: We're alive!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfessionalEngineer23&layout=compact&theme=swift)
 
 ---
 
