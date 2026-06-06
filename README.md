@@ -11,6 +11,7 @@
 - 🌱 Currently learning **ESP-IDF**
 - 💬 Ask me about anything — I’ll do my best to help
 - ⚡ Fun fact: We're alive!
+- Note: I am not a professional as of yet, but I aim to becoming one
 
 ---
 
